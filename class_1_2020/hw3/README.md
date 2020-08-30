@@ -1,0 +1,3 @@
+DATASET FOR LOGISTIC REGRESSION
+1. data1ex2.csv
+2. data2ex2.csv
